@@ -1,0 +1,1 @@
+exports.Ng-crudHelperModule = require('./lib').AppModule;
