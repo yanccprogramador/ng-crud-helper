@@ -11,9 +11,9 @@ npm install ng-crud-helper
    doPost()
    doDelete()
    doPut()
-   doGetWithKey()
-   doPostWithKey()
-   doDeleteWithKey()
-   doPutWithKey()
+   doGetWithApiKey()
+   doPostWitApihKey()
+   doDeleteWithApiKey()
+   doPutWithApiKey()
  
 2017 Yan Christoffer All rigths reserved
